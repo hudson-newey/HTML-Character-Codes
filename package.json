@@ -1,8 +1,8 @@
 {
   "name": "@hudson-newey/html-character-codes",
-  "version": "0.0.1",
-  "description": "Tree shakeable HTML character codes for JSX",
-  "main": "html-character-codes.js",
+  "version": "1.0.0",
+  "description": "Tree shakeable HTML character codes for TSX",
+  "main": "html-character-codes.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -4,11 +4,11 @@ This is no where near an exhaustive list and I am still working on the most obsc
 
 ## How to use
 
-```js
-import { enDash } from "@hudson-newey/html-character-codes.js";
+```ts
+import { HTMLCharacterCodes } from "@hudson-newey/html-character-codes";
 
 function htmlCode() {
-    return `2019 ${enDash} 2020`;
+    return `2019 ${HTMLCharacterCodes.enDash} 2020`;
 }
 ```
 
