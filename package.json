@@ -1,0 +1,24 @@
+{
+  "name": "@hudson-newey/html-character-codes",
+  "version": "0.0.1",
+  "description": "Tree shakeable HTML character codes for JSX",
+  "main": "html-character-codes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudson-newey/HTML-Character-Codes.git"
+  },
+  "keywords": [
+    "html",
+    "character",
+    "codes"
+  ],
+  "author": "hudson-newey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudson-newey/HTML-Character-Codes/issues"
+  },
+  "homepage": "https://github.com/hudson-newey/HTML-Character-Codes#readme"
+}
